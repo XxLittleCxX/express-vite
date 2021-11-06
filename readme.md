@@ -1,5 +1,7 @@
 # Dev
-Run `yarn dev` first, use `yarn build:server` to build the server with the latest code.
+Run `yarn build:server` first, then `yarn dev`.
+
+Run `yarn build:server` again to build the server with the latest code.
 
 # Build
 ```
